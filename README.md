@@ -1,8 +1,7 @@
-### Hi there 👋
+### Nice to meet you!
 
 <!--
 **LiotaW/LiotaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- Biology Ph.D. making computer simulations of disease outbreaks in animal populations.
-- she/ella
+- I like to make mechanistic mathematical models of disease spread in animal populations to provide quantitative evaluations of various prevention strategies.
 
