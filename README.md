@@ -3,11 +3,11 @@
 <!--)
 The above begins a commented-out section
 **LiotaW/LiotaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Below ends a comented-out section:
+Below ends a commented-out section:
 -->
 ## I like to make mechanistic, mathematical models of disease spread in animal populations to quantitatively evaluate potential prevention strategies.
 
-### On my 12-year journey from GED to PhD, I've employed various approaches:
+### Well-rounded base of biological approaches:
 
 <details>
 <summary> Veterinary </summary>
