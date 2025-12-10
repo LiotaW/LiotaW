@@ -74,3 +74,8 @@ Below ends a comented-out section:
 |     7| High Performance Computing in Linux command line with Bourne Again shell |
 
 </details>
+
+---
+
+> "All models are wrong - but some models are useful."
+ Attributed to George Box, a statistician.
