@@ -5,7 +5,7 @@ The above begins a commented-out section
 **LiotaW/LiotaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Below ends a commented-out section:
 -->
-## I like to make mechanistic, mathematical models of disease spread in animal populations to quantitatively evaluate potential prevention strategies.
+## I like to make mechanistic, mathematical models of disease outbreaks in animal populations to quantitatively evaluate potential prevention strategies.
 
 ### Well-rounded base of biological approaches:
 
