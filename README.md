@@ -75,6 +75,8 @@ Below ends a commented-out section:
 
 </details>
 
+linkedin.com/in/odotlgw
+
 ---
 
 > "All models are wrong - but some models are useful."
