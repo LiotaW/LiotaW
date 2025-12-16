@@ -3,9 +3,12 @@
 <!--)
 The above begins a commented-out section
 **LiotaW/LiotaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|     4| discrete or continuous time | 
+|     5| stochastic or  deterministic | 
+|     6| compartment or  individual-based | 
 Below ends a commented-out section:
 -->
-## I like to make mechanistic, mathematical models of disease outbreaks in animal populations to quantitatively evaluate potential prevention strategies.
+## I like to make mechanistic, mathematical models of disease outbreaks in animal populations to quantitatively compare prevention strategies.
 
 ### Well-rounded base of biological approaches:
 
@@ -68,10 +71,7 @@ Below ends a commented-out section:
 |     1| R programming language |
 |     2| statistical data analysis |
 |     3| data visualization |
-|     4| discrete or continuous time | 
-|     5| stochastic or  deterministic | 
-|     6| compartment or  individual-based | 
-|     7| High Performance Computing in Linux command line with Bourne Again shell |
+|     4| High Performance Computing in Linux command line with Bourne Again shell |
 
 </details>
 
